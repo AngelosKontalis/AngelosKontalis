@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelos Kontalis</h1>
-<h3 align="center">A passionate electrical and computer engineer from Greece</h3>
+<h3 align="center">A passionate electrical and computer engineer student from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **object-oriented technology**
