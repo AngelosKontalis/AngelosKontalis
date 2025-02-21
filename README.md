@@ -2,7 +2,7 @@
 <h3 align="center">A passionate electrical and computer engineer student from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **object-oriented technology**
+- 🌱 I’m currently learning **data mining and machine learning algorithms**
 
 - 📫 How to reach me **aggeloskod@gmail.com**
 
